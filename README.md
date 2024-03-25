@@ -2,6 +2,7 @@
 
 This library provides unofficial Go clients for [ChatGLM API](https://open.bigmodel.cn/dev/api). We support:
 
+forked from github.com/sunny0826/go-chatglm, v4 api surpported.
 - [Get Token](https://open.bigmodel.cn/usercenter/apikeys)
 - [ChatGLM](https://open.bigmodel.cn)
 
